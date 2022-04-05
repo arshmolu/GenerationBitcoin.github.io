@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Generation Bitcoin
-description: Supporting the Future of Bitcoin Innovators
+description: Supporting Future Bitcoin Innovators
 ---
 
 # Who We Are
