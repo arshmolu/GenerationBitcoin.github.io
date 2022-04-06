@@ -8,8 +8,7 @@ description: Supporting Future Bitcoin Innovators
 
 This is a resource list for people who are just starting out in bitcoin, compiled together by our members, who can personally vouch for them. 
 
-This list is still a work in progress, however, so if you have any recommendations yourself, feel free to leave a pull request. 
-
+This list is still a work in progress, however, so if you have any recommendations yourself, feel free to leave a [pull request](https://github.com/GenerationBitcoin/GenerationBitcoin.github.io/pulls). 
 ## Key
 
 Boldface resources are for beginners. 
@@ -22,15 +21,15 @@ If a resource is not styled, it is medium-level.
 
 ### Economic:
 
-- **The Bitcoin Standard**
-- **The Bullish Case for Bitcoin**
-- **Layered Money**
+- **The Bitcoin Standard by Saifedean Ammous**
+- **The Bullish Case for Bitcoin by Vijay Boyapati**
+- **Layered Money by Nik Bhatia**
 
 ### Technical:
 
-- *Programming Bitcoin*
-- **Grokking Bitcoin**
-- Mastering Bitcoin
+- *Programming Bitcoin Jimmy Song*
+- **Grokking Bitcoin by Kalle Rosenbaum**
+- Mastering Bitcoin by Andreas Antonopoulos
 
 ### Misc:
 
@@ -40,6 +39,21 @@ If a resource is not styled, it is medium-level.
 - **[Getting Started With Bitcoin](https://www.lopp.net/bitcoin-information/getting-started.html)**
 - **[Masters and Slaves of Money](https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f)**
 - **[21 Lessons](21lessons.com)**
+
+## Websites
+
+### Economic:
+
+- N/A
+
+### Technical:
+
+- [Bitcoin Optech](https://bitcoinops.org/)
+- [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com)
+
+### Misc:
+
+- N/A
 
 ## Video Links
 
