@@ -4,4 +4,4 @@ title: Generation Bitcoin
 description: Supporting Future Bitcoin Innovators
 ---
 
-# Members
+# Contact Us
