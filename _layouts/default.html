@@ -20,8 +20,8 @@
           <a href="../index.html" style="box-shadow: none; color: white">{{ page.title | default: site.title | default: site.github.repository_name }}</a>
       </h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        <a href="../resources.html" class="btn">Resources</a>
         <a href="../faqs.html" class="btn">FAQs</a>
+        <a href="../resources.html" class="btn">Resources</a>
         <a href="../contact_us.html" class="btn">Contact Us</a>
         <a href="{{ site.form_url }}" class="btn">Join Us</a>
     </header>
@@ -30,9 +30,6 @@
       {{ content }}
 
       <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
         <span class="site-footer-credits">View source on <a href="{{ site.github.repository_url }}">GitHub</a>.</span>
       </footer>
     </main>
