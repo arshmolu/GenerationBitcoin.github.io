@@ -41,31 +41,35 @@ If a resource is not styled, it is medium-level.
 - **[21 Lessons](21lessons.com)**
 
 ## Websites
-
+<!---
 ### Economic:
 
 - N/A
+#-->
 
 ### Technical:
 
 - [Bitcoin Optech](https://bitcoinops.org/)
 - [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com)
 
-### Misc:
+<!---### Misc:
 
 - N/A
+#-->
 
+<!---
 ## Video Links
 
 ### Economic:
-
 - N/A
 
 ### Technical:
 
 - N/A
 
-### Misc:
+#-->
+
+## Misc:
 
 - [The Rise and Rise of Bitcoin](https://youtu.be/sZ-aUlNY9_g)
 - **[Till Musshoff](https://www.youtube.com/channel/UCycGV6fAhD_-7GPmCkkESdw/videos)**
