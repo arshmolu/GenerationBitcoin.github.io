@@ -22,7 +22,7 @@ If a resource is not styled, it is medium-level.
 ### Economic:
 
 - **The Bitcoin Standard by Saifedean Ammous**
-- **The Bullish Case for Bitcoin by Vijay Boyapati**
+- **[The Bullish Case for Bitcoin by Vijay Boyapati](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1)**
 - **Layered Money by Nik Bhatia**
 
 ### Technical:
