@@ -16,4 +16,4 @@ You can add helpful resources to our [Resources](../resources.html) page by maki
 It's totally okay to join GenB if you're not familiar with Bitcoin. Everyone starts somewhere! We'd recommend that you check out some of the beginner resources listed on the [Resources](../resources.html) page as these have helped out our members initially learn about Bitcoin as well.
 
 ## What if I'm interested in cryptocurrencies other than Bitcoin?
-Generation Bitcoin is, as the name implies, a Bitcoin-only group focused on helping teens get into this space. If you are interested in learning about altcoins we suggest you join another group.
+Generation Bitcoin is, as the name implies, a Bitcoin-only group focused on helping teens get into this space. Though, even if you're interetsed in alternative assets, you're welcome to join us to learn about Bitcoin. No shilling. 
